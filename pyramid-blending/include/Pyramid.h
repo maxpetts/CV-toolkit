@@ -10,9 +10,8 @@
  *
  *   @date       11/02/21
  *
- *   @author     Max Petts / eeub35
+ *   @author     Max Petts
  *
- *   @todo      get bread
  *   @todo      create gauss & laplac pyramid constructors that return <vector>Mat
  *
  ********************************************************************************
